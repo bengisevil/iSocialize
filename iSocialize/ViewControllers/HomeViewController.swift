@@ -2,8 +2,8 @@
 //  HomeViewController.swift
 //  iSocialize
 //
-//  Created by Jovan R on 11/15/18.
-//  Copyright © 2018 Jovan Rivera. All rights reserved.
+//  Created by Bengi Sevil on 11/15/18.
+//  Copyright © 2018 Bengi Sevil. All rights reserved.
 //
 
 import UIKit

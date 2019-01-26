@@ -3,7 +3,7 @@
 //  iSocialize
 //
 //  Created by Bengi Sevil on 12/5/18.
-//  Copyright © 2018 Jovan Rivera. All rights reserved.
+//  Copyright © 2018 Bengi Sevil. All rights reserved.
 //
 
 import UIKit
